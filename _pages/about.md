@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: window.gif
+  image: window2.gif
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Clip Studio Paint</p>
