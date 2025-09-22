@@ -9,8 +9,7 @@ profile:
   image: window2.gif
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Clip Studio Paint</p>
-    <p>Traditional Media</p>
+    <p>Design // Illustration // Animation</p>
     <p>West Coast, Turtle Island</p>
 
 social: true # includes social icons at the bottom of the page
@@ -27,5 +26,3 @@ latest_posts:
 ---
 
 I'm learning how web pages work these days, in the meantime bother me on bluesky :3
-
-Contact for moving pictures of your characters, splashes for your video projects, or illustration and design work!
