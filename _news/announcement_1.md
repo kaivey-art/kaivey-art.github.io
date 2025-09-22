@@ -2,7 +2,7 @@
 layout: post
 title: I want to draw more Skiltaire.
 date: 2025-09-22 15:59:00-0400
-inline: false
+inline: true
 related_posts: false
 ---
 <img src="/assets/img/tezukasy.jpg">
