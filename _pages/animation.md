@@ -6,12 +6,17 @@ description:
 nav: false
 nav_order: 21
 ---
-
-storyboards
-sketches
-inked
-inked and colored
-character animation
-pose-to-pose scenes
-straight ahead
-visual effects
+<img src="/assets/img/anim/window.gif"><p>
+8fps walk cycles<p>
+<img src="/assets/img/anim/honey_sailormew.gif"><p>
+<img src="/assets/img/anim/cakelet.gif"><p>
+<img src="/assets/img/anim/angelbun.gif"><p>
+short looping gifs<p>
+<img src="/assets/img/anim/mochatune.gif"><p>
+<img src="/assets/img/anim/hinotorisan.gif"><p>
+<img src="/assets/img/anim/kh91spin.gif"><p>
+<img src="/assets/img/anim/selfcare.gif"><p>
+<img src="/assets/img/anim/ch0kcydrbase.gif"><p>
+<img src="/assets/img/anim/mitspunch.gif"><p>
+<img src="/assets/img/anim/elegant.gif"><p>
+<img src="/assets/img/anim/flyingcalmnight.gif"><p>
