@@ -2,7 +2,7 @@
 layout: post
 title: I want to draw more Skiltaire.
 date: 2025-09-22 15:59:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 Skiltaire are Mark Merlino / Sy Sable's little guys.
