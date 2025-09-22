@@ -388,16 +388,16 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+      },{id: "news-christo-fascism-is-boring-can-we-have-socialism-now-lol",
+          title: 'christo-fascism is boring. can we have socialism now? lol',
           description: "",
           section: "News",},{id: "news-i-want-to-draw-more-skiltaire",
           title: 'I want to draw more Skiltaire.',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "news-star-commissions-open-star-contact-me-on-bluesky-kaivey-telegram-kaiivey-or-email-o-h-w-o-a-h-g-m-a-i-l-c-o-m",
-          title: '::star Commissions open! ::star Contact me on bluesky (kaivey), telegram (kaiivey) or email...',
+            },},{id: "news-commissions-open-hoping-to-work-on-more-short-looping-animations-to-have-examples-for-stickers-and-emotes-contact-me-on-bluesky-kaivey-telegram-kaiivey-or-email-o-h-w-o-a-h-g-m-a-i-l-c-o-m",
+          title: 'Commissions open. Hoping to work on more short looping animations to have examples...',
           description: "",
           section: "News",},{
         id: 'social-bluesky',
