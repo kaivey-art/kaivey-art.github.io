@@ -2,9 +2,11 @@
 layout: post
 title: I want to draw more Skiltaire.
 date: 2025-09-22 15:59:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
+Skiltaire are Mark Merlino / Sy Sable's little guys.
+
 <img src="/assets/img/tezukasy.jpg">
 
 Osamu Tezuka and Mark Merlino / Sy Sable and some other people at an early anime or furry convention. Mark / Sy was a person very involved in the original emergence of what came to be known as furcons. Him, his husband, and Ken Coug'r, and other artists and many other people. I got to draw a sketch of him and his husband as their fursonas with him wearing the Robin Hood hat when they spoke about con organizing when they came to san jose Further Confusion.. sadly later that same year Mark died..
