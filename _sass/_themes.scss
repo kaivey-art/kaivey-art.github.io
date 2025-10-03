@@ -6,16 +6,16 @@
 
 :root {
   color-scheme: light;
-  --global-bg-color: #97AA6C;
+  --global-bg-color: #97aa6c;
   --global-code-bg-color: #{$code-bg-color-light};
-  --global-text-color: #1A1A10;
+  --global-text-color: #1a1a10;
   --global-text-color-light: #1e1e52;
   --global-theme-color: #574177;
   --global-hover-color: #574177;
-  --global-hover-text-color: #251B77;
-  --global-footer-bg-color: #AEB98D;
-  --global-footer-text-color: #2C2A06;
-  --global-footer-link-color: #7A9A40;
+  --global-hover-text-color: #251b77;
+  --global-footer-bg-color: #aeb98d;
+  --global-footer-text-color: #2c2a06;
+  --global-footer-link-color: #7a9a40;
   --global-distill-app-color: #{$grey-color};
   --global-divider-color: rgba(0, 0, 0, 0.1);
   --global-card-bg-color: #{$white-color};
@@ -26,9 +26,9 @@
     #{color.channel($black-color, "blue", $space: rgb)},
     0.4
   );
-  --global-back-to-top-text-color: #7A9A40;
-  --global-newsletter-bg-color: #AEB98D;
-  --global-newsletter-text-color: #2C2A06;
+  --global-back-to-top-text-color: #7a9a40;
+  --global-newsletter-bg-color: #aeb98d;
+  --global-newsletter-text-color: #2c2a06;
 
   --global-tip-block: #42b983;
   --global-tip-block-bg: #e2f5ec;
@@ -78,16 +78,16 @@
 
 html[data-theme="dark"] {
   color-scheme: dark;
-  --global-bg-color: #3D3440;
+  --global-bg-color: #3d3440;
   --global-code-bg-color: #{$code-bg-color-dark};
-  --global-text-color: #97AA6C;
-  --global-text-color-light: #AEB98D;
-  --global-theme-color: #7A9A40;
-  --global-hover-color: #7A9A40;
-  --global-hover-text-color: #7A9A40;
-  --global-footer-bg-color: #2C2A06;
-  --global-footer-text-color: #7A9A40;
-  --global-footer-link-color: #AEB98D;
+  --global-text-color: #97aa6c;
+  --global-text-color-light: #aeb98d;
+  --global-theme-color: #7a9a40;
+  --global-hover-color: #7a9a40;
+  --global-hover-text-color: #7a9a40;
+  --global-footer-bg-color: #2c2a06;
+  --global-footer-text-color: #7a9a40;
+  --global-footer-link-color: #aeb98d;
   --global-distill-app-color: #{$grey-color-light};
   --global-divider-color: #424246;
   --global-card-bg-color: #{$grey-900};
